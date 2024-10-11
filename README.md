@@ -14,3 +14,5 @@ Jenkins Installation on an EC2 Instance.
 4. Make sure to open the 8080 port on your Instance SG.
 5. Try connecting to the Jenkins using http://ip-address:8080
 6. Get the Jenkins Password : sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+Will be adding more details 
